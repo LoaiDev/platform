@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/LoaiDev/platfrom_backend
+	url = https://github.com/LoaiDev/platform_backend
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/LoaiDev/platfrom_frontend
+	url = https://github.com/LoaiDev/platform_frontend
